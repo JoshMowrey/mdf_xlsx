@@ -1,0 +1,4 @@
+asammdf
+pandas
+openpyxl
+pyinstaller
